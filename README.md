@@ -1,6 +1,6 @@
 1. Input your messeage
 
-2. A Url will be created
+2. A url will be created
 
 3. Copy the url 
 
